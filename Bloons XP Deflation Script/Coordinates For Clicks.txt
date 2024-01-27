@@ -1,0 +1,39 @@
+For 1920x1080
+
+824 962 play button
+1340 962 Expert Maps Button
+1307 661 Infernal Map Button
+659 414 Easy Mode
+1286 450 Deflation Mode
+948 771 Ok Button
+
+
+
+1812 643 Sniper Monkey
+1544 600 Place  Sniper Monkey
+334 794 Upgrade Faster Firing Coordinate to Tier 4 (Sniper Monkey)
+324 648 Upgrade Night Vision Coordinate to Tier 2 (Sniper Monkey)
+
+
+
+1703 222 Quincy Coordinates To Select
+836 315	Place Quincy Coordinates
+
+
+
+1803 817 Alchemist Pick Location
+1608 513 Alchemist Placement
+316 492 Upgrade Alchemist Larger Potions Tier 4
+319 635 Upgrade Alchemist Stronger Acid Tier 2
+
+
+1825 486 Second Alchemist Choose
+1594 671 Second Alchemist Placement
+1593 654 Clicking on Second Alchemist
+322 511 Top Path Upgrade
+323 822 Bottom Path Upgrade
+
+
+1815 998 Click Play and Speed Game Up
+943 896 Victory Screen
+720 853 Victory Congrats
