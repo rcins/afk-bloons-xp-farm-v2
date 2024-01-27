@@ -7,7 +7,7 @@ Requires Sniper Monkey Max Bottom Path and Alchemist Max Top Path
 
 Instructions:
 Download python interpreter onto ur pc from microsoft store.
-Load BTD6 with the map infernal unlocked including inflation mode.
+Load BTD6 with the map infernal unlocked including deflation mode.
 At the home screen run the Deflation ScriptXP.py file.
 AFK 
 Enjoy ur xp.
