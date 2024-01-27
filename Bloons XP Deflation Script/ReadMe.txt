@@ -16,5 +16,5 @@ Only currently works on 1920x1080p resolution.
 If you have a different resolution use the CoordinateLocation.py file and replace the coordinates needed.
 
 Known Bugs:
-Alchemist not upgrading once every 10 or so runs, this won't break the code you just miss out on a couple minutes of xp.
+Alchemist not upgrading once every 10 or so runs, this won't break the code you just miss out on a couple minutes of xp. (Fixed I Believe)
 
