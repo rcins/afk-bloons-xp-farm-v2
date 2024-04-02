@@ -7,7 +7,7 @@ Requires Sniper Monkey Max Bottom Path and Alchemist Max Top Path
 
 Instructions:
 Download python interpreter onto ur pc from microsoft store.
-Download pyautogui (In a terminal run (pip install pyautogui))
+Download pyautogui (In a terminal type python and then type(pip install pyautogui))
 
 
 Load BTD6 with the map infernal unlocked including deflation mode.
